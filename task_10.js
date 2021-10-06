@@ -12,7 +12,7 @@ function getPrime(num) {
 
 
     } else {
-        console.log("Введите число кроме 0, 1 и не больше 1000 ")
+        console.log("Данные не верны")
     }
 
 }
